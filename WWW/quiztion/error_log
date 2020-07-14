@@ -1,0 +1,38 @@
+[29-Jun-2020 08:06:23 UTC] PHP Notice:  Undefined index: imageurl in /home/oz4sso0ss0e3/public_html/quiztion/signup.php on line 7
+[29-Jun-2020 08:12:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/oz4sso0ss0e3/public_html/quiztion/leaderboard.php on line 7
+[29-Jun-2020 08:16:11 UTC] PHP Notice:  Undefined index: imageurl in /home/oz4sso0ss0e3/public_html/quiztion/signup.php on line 7
+[29-Jun-2020 08:16:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/oz4sso0ss0e3/public_html/quiztion/quizlist.php on line 7
+[29-Jun-2020 08:16:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/oz4sso0ss0e3/public_html/quiztion/quizlist.php on line 7
+[29-Jun-2020 08:16:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/oz4sso0ss0e3/public_html/quiztion/quizlist.php on line 7
+[29-Jun-2020 08:16:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/oz4sso0ss0e3/public_html/quiztion/quizlist.php on line 7
+[29-Jun-2020 08:17:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/oz4sso0ss0e3/public_html/quiztion/performance.php on line 8
+[29-Jun-2020 09:43:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/oz4sso0ss0e3/public_html/quiztion/leaderboard.php on line 7
+[29-Jun-2020 09:57:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/oz4sso0ss0e3/public_html/quiztion/leaderboard.php on line 7
+[29-Jun-2020 10:34:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/oz4sso0ss0e3/public_html/quiztion/performance.php on line 8
+[29-Jun-2020 19:02:58 UTC] PHP Notice:  Undefined index: imageurl in /home/oz4sso0ss0e3/public_html/quiztion/signup.php on line 7
+[01-Jul-2020 21:04:02 UTC] PHP Notice:  Undefined index: imageurl in /home/oz4sso0ss0e3/public_html/quiztion/signup.php on line 7
+[01-Jul-2020 21:05:51 UTC] PHP Notice:  Undefined index: imageurl in /home/oz4sso0ss0e3/public_html/quiztion/signup.php on line 7
+[01-Jul-2020 21:11:15 UTC] PHP Notice:  Undefined index: imageurl in /home/oz4sso0ss0e3/public_html/quiztion/signup.php on line 7
+[02-Jul-2020 00:40:11 UTC] PHP Notice:  Undefined index: quizname in /home/oz4sso0ss0e3/public_html/quiztion/questionbank.php on line 3
+[02-Jul-2020 00:40:11 UTC] PHP Notice:  Undefined index: question in /home/oz4sso0ss0e3/public_html/quiztion/questionbank.php on line 4
+[02-Jul-2020 00:40:11 UTC] PHP Notice:  Undefined index: choice1 in /home/oz4sso0ss0e3/public_html/quiztion/questionbank.php on line 5
+[02-Jul-2020 00:40:11 UTC] PHP Notice:  Undefined index: choice2 in /home/oz4sso0ss0e3/public_html/quiztion/questionbank.php on line 6
+[02-Jul-2020 00:40:11 UTC] PHP Notice:  Undefined index: choice3 in /home/oz4sso0ss0e3/public_html/quiztion/questionbank.php on line 7
+[02-Jul-2020 00:40:11 UTC] PHP Notice:  Undefined index: choice4 in /home/oz4sso0ss0e3/public_html/quiztion/questionbank.php on line 8
+[02-Jul-2020 00:40:11 UTC] PHP Notice:  Undefined index: answer in /home/oz4sso0ss0e3/public_html/quiztion/questionbank.php on line 9
+[02-Jul-2020 01:59:59 UTC] PHP Notice:  Undefined index: imageurl in /home/oz4sso0ss0e3/public_html/quiztion/signup.php on line 7
+[02-Jul-2020 19:30:46 UTC] PHP Notice:  Undefined index: imageurl in /home/oz4sso0ss0e3/public_html/quiztion/signup.php on line 7
+[02-Jul-2020 19:31:41 UTC] PHP Notice:  Undefined index: imageurl in /home/oz4sso0ss0e3/public_html/quiztion/signup.php on line 7
+[02-Jul-2020 19:31:44 UTC] PHP Notice:  Undefined index: imageurl in /home/oz4sso0ss0e3/public_html/quiztion/signup.php on line 7
+[02-Jul-2020 19:31:46 UTC] PHP Notice:  Undefined index: imageurl in /home/oz4sso0ss0e3/public_html/quiztion/signup.php on line 7
+[02-Jul-2020 19:36:12 UTC] PHP Notice:  Undefined index: imageurl in /home/oz4sso0ss0e3/public_html/quiztion/signup.php on line 7
+[02-Jul-2020 20:29:35 UTC] PHP Notice:  Undefined index: imageurl in /home/oz4sso0ss0e3/public_html/quiztion/signup.php on line 7
+[02-Jul-2020 20:30:29 UTC] PHP Notice:  Undefined index: imageurl in /home/oz4sso0ss0e3/public_html/quiztion/signup.php on line 7
+[02-Jul-2020 20:31:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/oz4sso0ss0e3/public_html/quiztion/getuser.php on line 6
+[03-Jul-2020 02:10:05 UTC] PHP Notice:  Undefined index: imageurl in /home/oz4sso0ss0e3/public_html/quiztion/signup.php on line 7
+[04-Jul-2020 09:18:50 UTC] PHP Notice:  Undefined index: username in /home/oz4sso0ss0e3/public_html/quiztion/signup.php on line 2
+[04-Jul-2020 09:18:50 UTC] PHP Notice:  Undefined index: password in /home/oz4sso0ss0e3/public_html/quiztion/signup.php on line 3
+[04-Jul-2020 09:18:50 UTC] PHP Notice:  Undefined index: institution in /home/oz4sso0ss0e3/public_html/quiztion/signup.php on line 4
+[04-Jul-2020 09:18:50 UTC] PHP Notice:  Undefined index: email in /home/oz4sso0ss0e3/public_html/quiztion/signup.php on line 5
+[04-Jul-2020 09:18:50 UTC] PHP Notice:  Undefined index: phone in /home/oz4sso0ss0e3/public_html/quiztion/signup.php on line 6
+[04-Jul-2020 09:18:50 UTC] PHP Notice:  Undefined index: imageurl in /home/oz4sso0ss0e3/public_html/quiztion/signup.php on line 7
